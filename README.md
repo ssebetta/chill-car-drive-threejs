@@ -30,7 +30,7 @@ npm run build
 
 ## Screenshot
 
-![Screenshot](./public/sample.png)
+![Screenshot](./public/sample.gif)
 
 ## License
 
